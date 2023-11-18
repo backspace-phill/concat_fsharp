@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uBX/rOdxnER3KmacLpaE5XCp/l/1lwV/cyzQamTICinJcBz3SBQc+1rpukfmS0PZoIKw4bnKpRPUhR7Xqi3GpQ==",
+  "success": true,
+  "projectFilePath": "/home/phillip/Dokumente/Programming/fsharp/concat/concat.fsproj",
+  "expectedPackageFiles": [
+    "/home/phillip/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512",
+    "/home/phillip/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/7.0.12/microsoft.netcore.app.runtime.linux-x64.7.0.12.nupkg.sha512",
+    "/home/phillip/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/7.0.12/microsoft.aspnetcore.app.runtime.linux-x64.7.0.12.nupkg.sha512",
+    "/home/phillip/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.12/microsoft.netcore.app.host.linux-x64.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
